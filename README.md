@@ -42,7 +42,7 @@ porém ele consome menos memória ram.
 Você precisa usar o postman para realizar a requisição com o método POST, passando a campanha e 
 as datas separadas por vírgula, ex:(14-12-2022, 15-12,2022).
 ```
-![postman_publi.png](..%2Fpostman_publi.png)
+![postman_publi](https://user-images.githubusercontent.com/105467235/215152830-c1fdbae0-d857-4db7-bcf4-7efcbcb29514.png)
 
 ### 🔩 Gráficos de consumo de memória
 
@@ -55,7 +55,7 @@ Mais de 70.000 contatos.
 Se você precisa gerar um relatório em Excel com um grande volume de dados. Com certeza essa biblioteca 
 vai te ajudar.
 ```
-![grafico_publi.png](..%2Fgrafico_publi.png)
+![grafico_publi](https://user-images.githubusercontent.com/105467235/215152800-546b5fe6-e701-4b4b-ab2a-518027449c4e.png)
 ## 🛠️ Construído com
 
 * [Java](https://www.java.com/pt-BR/) - A linguagem de programação usada.
