@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6303f74b9ade8a9550f90b95"
+  },
+  "nomeCampanha": "Suporte 1",
+  "situacao": true,
+  "_class": "br.com.apicampanha.model.CampanhaModel"
+},
+
+{
+  "_id": {
+    "$oid": "63a452b4dcc1965012365dea"
+  },
+  "nomeCampanha": "Segunda Campanha",
+  "situacao": true,
+  "_class": "br.com.apicampanha.model.CampanhaModel"
+},
+
+{
+  "_id": {
+    "$oid": "63c5571585a548e1a1350367"
+  },
+  "nomeCampanha": "Terceira Campanha",
+  "situacao": true,
+  "_class": "br.com.apicampanha.model.CampanhaModel"
+}]
